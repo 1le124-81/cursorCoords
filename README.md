@@ -5,4 +5,4 @@ Uses tkinter for the window ui, pynput keyboard for hotkeys, and win32api for th
 
 The label is slightly below the cursor and is pretty small, just simple text on a gray background. it will remain above any other windows, making it basically a decoration to the mouse.
 
-F8 toggles visibility, F7 completely exits the code. 
+F8 toggles visibility, F7 completely exits the code. Displayed position is relative to screen scale.
